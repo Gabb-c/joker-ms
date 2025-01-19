@@ -1,1 +1,1 @@
-bun lint-staged
+bunx commitlint --edit $1
