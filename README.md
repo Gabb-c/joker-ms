@@ -1,4 +1,4 @@
-# joker-ms 🃏
+# joker-ms
 
 A lightning-fast joke API built with Hono.js and powered by Bun runtime.
 
