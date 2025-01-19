@@ -1,0 +1,11 @@
+# Automatically detect text files and handle line endings appropriately
+* text=auto
+
+# Ignore the .gitattributes file itself when exporting or archiving the repository
+.gitattributes export-ignore
+
+# Ignore the .gitignore file when exporting or archiving the repository
+.gitignore export-ignore
+
+# Ignore the .gitkeep file when exporting or archiving the repository
+.gitkeep export-ignore
